@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 Hello there! I'm an undergraduate student exploring the world of technology. With a constantly developing foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference in protecting the evolving cyber universe.  
 
-**📚 Currently Learning:** Python (ML), C, C++, Python, Cybersecurity, Memory Management, Linear Algebra (and other higher level mathematics), IoT 
+**📚 Currently Learning:** Python (ML), C, C++, Python, Cybersecurity, Memory Management, Linear Algebra and Calculus, IoT 
 
 **🎯 Interested In:** AI/ML, Cybersecurity
 
