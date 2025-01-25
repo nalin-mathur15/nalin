@@ -21,5 +21,5 @@ Hello there! I'm an undergraduate student exploring the world of technology. Wit
 - Basic Encryption Algorithm in C
 - A chess analysis and best move finder in Python
 ## 📩 Connect with Me!  
-- [mailto:mathurnalin15@gmail.com](**Email**)  
-- [https://www.linkedin.com/in/nalin-mathur-095aa8235/](**LinkedIn**)  
+- [**Email**](mailto:mathurnalin15@gmail.com)  
+- [**LinkedIn**](https://www.linkedin.com/in/nalin-mathur-095aa8235/)
