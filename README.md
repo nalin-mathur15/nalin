@@ -17,11 +17,8 @@ Hello there! I'm an undergraduate student exploring the world of technology. Wit
 - **Coding:** Python, Java, C, C++
 
 ## 💡 Projects  
-I mainly work on two categories of projects: Fundamentals (FDMTL), which help me develop my knowledge of the basics, such as data structures and memory management, and specialisations (SPCLs), which focus on going in-depth in the fields I enjoy
-**FDMTLs**:
 - Linked List Data Structure in C++
 - Basic Encryption Algorithm in C
-**SPCLs**:
 - A chess analysis and best move finder in Python
 ## 📩 Connect with Me!  
 - [mailto:mathurnalin15@gmail.com](**Email**)  
